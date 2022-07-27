@@ -38,10 +38,6 @@ running staff
 
 results obtained with images
 
-<p align="center">
-<img src="plot/completiontime_15000size.png" height="250" />
-<img src="plot/speedup_100iter_15000size_false.png" height="250" />
-</p>
 
 
 
