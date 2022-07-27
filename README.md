@@ -25,9 +25,9 @@ Fill it with implementation details
 ## Structure
 
 ```
-📦finance_reinforcement_learning
- ┣ 📜 multiple_stock_trading.ipynb
- ┣ 📜README.md   
+📈 finance_reinforcement_learning
+ ┣ 📓 multiple_stock_trading.ipynb
+ ┣ 📕 README.md   
 ```
 
 ## Running
