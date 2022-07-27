@@ -9,6 +9,42 @@
 ![file-count-shield]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+The following repository contains some applications of Reinforcement Learning in finance and in particular it is used as main reference the framework FinRL.
+
+## Table of contents[![](./docs/img/pin.svg)](#table-of-contents)
+1. [Implementation](#implementation)
+2. [Structure](#structure)
+3. [Compiling](#compiling)
+4. [Running](#running)
+5. [Results](#results)
+
+## Implementation
+
+Fill it with implementation details
+
+## Structure
+
+```
+📦finance_reinforcement_learning
+ ┣ 📜 multiple_stock_trading.ipynb
+ ┣ 📜README.md   
+```
+
+## Running
+
+running staff
+
+## Results
+
+results obtained with images
+
+<p align="center">
+<img src="plot/completiontime_15000size.png" height="250" />
+<img src="plot/speedup_100iter_15000size_false.png" height="250" />
+</p>
+
+
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [forks-shield]: https://img.shields.io/github/forks/robbespo00/jacobi-spm
