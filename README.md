@@ -1,1 +1,1 @@
-# finance_reinforcement_learning
+# Finance Reiforcement Learning
